@@ -242,6 +242,46 @@
       }
     },
     {
+      "name": "Cream Autumn Old",
+      "path": "Cream Autumn Old",
+      "dark": {
+        "mPrimary": "#e0a84a",
+        "mOnPrimary": "#282828",
+        "mSecondary": "#c88a2a",
+        "mOnSecondary": "#282828",
+        "mTertiary": "#b8975a",
+        "mOnTertiary": "#282828",
+        "mError": "#ea6962",
+        "mOnError": "#282828",
+        "mSurface": "#1d1610",
+        "mOnSurface": "#e8d5a3",
+        "mSurfaceVariant": "#2a1f12",
+        "mOnSurfaceVariant": "#c8a870",
+        "mOutline": "#9a7850",
+        "mShadow": "#000000",
+        "mHover": "#e0a84a",
+        "mOnHover": "#282828"
+      },
+      "light": {
+        "mPrimary": "#b47109",
+        "mOnPrimary": "#fbf1c7",
+        "mSecondary": "#8a5c00",
+        "mOnSecondary": "#fbf1c7",
+        "mTertiary": "#a07840",
+        "mOnTertiary": "#fbf1c7",
+        "mError": "#c14a4a",
+        "mOnError": "#fbf1c7",
+        "mSurface": "#fbf1c7",
+        "mOnSurface": "#2a1f12",
+        "mSurfaceVariant": "#f0dfa0",
+        "mOnSurfaceVariant": "#4a3818",
+        "mOutline": "#8a7050",
+        "mShadow": "#c8a870",
+        "mHover": "#b47109",
+        "mOnHover": "#fbf1c7"
+      }
+    },
+    {
       "name": "Cyberpunk",
       "path": "Cyberpunk",
       "dark": {
