@@ -1722,6 +1722,46 @@
       }
     },
     {
+      "name": "Shinonome",
+      "path": "Shinonome",
+      "dark": {
+        "mPrimary": "#D5ACA9",
+        "mOnPrimary": "#1A1D20",
+        "mSecondary": "#B38D97",
+        "mOnSecondary": "#1A1D20",
+        "mTertiary": "#C5BAAF",
+        "mOnTertiary": "#1A1D20",
+        "mError": "#B38D97",
+        "mOnError": "#1A1D20",
+        "mSurface": "#1A1D20",
+        "mOnSurface": "#EBCFB2",
+        "mSurfaceVariant": "#2D3339",
+        "mOnSurfaceVariant": "#EBCFB2",
+        "mOutline": "#424B54",
+        "mShadow": "#000000",
+        "mHover": "#D5ACA9",
+        "mOnHover": "#1A1D20"
+      },
+      "light": {
+        "mPrimary": "#424B54",
+        "mOnPrimary": "#EBCFB2",
+        "mSecondary": "#8C4351",
+        "mOnSecondary": "#EBCFB2",
+        "mTertiary": "#8F623F",
+        "mOnTertiary": "#EBCFB2",
+        "mError": "#8C4351",
+        "mOnError": "#EBCFB2",
+        "mSurface": "#EBCFB2",
+        "mOnSurface": "#3D3732",
+        "mSurfaceVariant": "#C5BAAF",
+        "mOnSurfaceVariant": "#3D3732",
+        "mOutline": "#62727D",
+        "mShadow": "#3D3732",
+        "mHover": "#8C4351",
+        "mOnHover": "#EBCFB2"
+      }
+    },
+    {
       "name": "Solarized",
       "path": "Solarized",
       "dark": {
